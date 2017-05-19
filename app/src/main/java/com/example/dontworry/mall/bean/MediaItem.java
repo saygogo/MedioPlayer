@@ -7,7 +7,6 @@ package com.example.dontworry.mall.bean;
 public class MediaItem {
     private String name;
     private long size;
-
     private String data;
     private long duration;
 

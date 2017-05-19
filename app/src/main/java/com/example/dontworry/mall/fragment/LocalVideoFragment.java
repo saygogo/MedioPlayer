@@ -28,7 +28,6 @@ public class LocalVideoFragment extends BaseFragment {
     private ArrayList<MediaItem> mediaItems;
     private LocalVideoAdapter adapter;
 
-
     @Override
     public View initView() {
         View view = View.inflate(context, R.layout.fragment_local_video, null);
@@ -83,7 +82,6 @@ public class LocalVideoFragment extends BaseFragment {
 
                         mediaItems.add(new MediaItem(name, duration, size, data));
                     }
-
                     cursor.close();
                 }
             }
