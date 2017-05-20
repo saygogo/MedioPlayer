@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mall.iml" filepath="$PROJECT_DIR$/Mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MedioPlayer/MedioPlayer.iml" filepath="$PROJECT_DIR$/MedioPlayer/MedioPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
     </modules>
   </component>
 </project>

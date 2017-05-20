@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.dontworry.mall.MainActivity">
+    tools:context="com.atguigu.mobileplayer0224.MainActivity">
 
     <include layout="@layout/titlebar" />
 
@@ -17,12 +17,12 @@
 
 
     <RadioGroup
+        android:padding="8dp"
         android:id="@+id/rg_main"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#22000000"
-        android:orientation="horizontal"
-        android:padding="8dp">
+        android:orientation="horizontal">
 
 
         <RadioButton
@@ -46,11 +46,15 @@
             android:text="网络音频" />
 
 
+
         <RadioButton
             android:id="@+id/rb_net_video"
             style="@style/myStyle"
             android:drawableTop="@drawable/rb_net_video_selector"
             android:text="网络视频" />
+
+
     </RadioGroup>
+
 
 </LinearLayout>
