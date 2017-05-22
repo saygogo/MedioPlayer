@@ -1,1 +1,1 @@
-include ':MedioPlayer', ':app'
+include ':MedioPlayer'

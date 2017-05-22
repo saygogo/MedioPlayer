@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mall.iml" filepath="$PROJECT_DIR$/Mall.iml" />
       <module fileurl="file://$PROJECT_DIR$/MedioPlayer/MedioPlayer.iml" filepath="$PROJECT_DIR$/MedioPlayer/MedioPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>

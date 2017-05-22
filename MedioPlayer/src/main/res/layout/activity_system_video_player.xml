@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.medioplayer.acticity.SystemVideoPlayerActivity">
 
-    <VideoView
+    <com.example.medioplayer.VideoView
         android:id="@+id/vv"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
